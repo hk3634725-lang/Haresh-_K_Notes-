@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Haresh Kumar Notes — مفت نوٹس (Class 3–12)</title>
+  <meta name="description" content="Haresh Kumar - Free PDF notes for Class 3 to 12 (Science & other subjects). Urdu + English notes, exam-focused, Sindh Textbook Board friendly." />
+  <meta name="keywords" content="free notes, class 3 notes, class 12 notes, science notes, Sindh board, PDF notes, Haresh Kumar" />
+  <style>
+    :root{--accent:#0b74de;--bg:#f7f9fc}
+    body{font-family: 'Noto Nastaliq Urdu', sans-serif; background:var(--bg); margin:0; padding:0; color:#222}
+    .container{max-width:980px;margin:16px auto;padding:14px}
+    header{background:#0b74de;color:white;padding:14px;border-radius:10px;text-align:center}
+    header h1{margin:0;font-size:20px}
+    .intro{background:white;padding:12px;border-radius:10px;margin-top:12px;box-shadow:0 6px 18px rgba(0,0,0,0.04)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:14px}
+    .card{background:white;padding:12px;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,0.04)}
+    .card h3{margin:0 0 8px 0}
+    .btn{display:inline-block;padding:8px 12px;border-radius:8px;background:var(--accent);color:white;text-decoration:none}
+    .muted{color:#666;font-size:14px}
+    footer{margin-top:18px;text-align:center;color:#555;font-size:14px;padding:10px}
+    @media(max-width:520px){header h1{font-size:18px}}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Haresh Kumar — مفت نوٹس (کلاس 3 تا 12)</h1>
+      <p style="margin:6px 0 0 0;opacity:0.95">Exam-focused PDF notes — Urdu & English (Sindh Textbook Board friendly)</p>
+    </header><div class="intro">
+  <p class="muted">یہ نوٹس بالکل <strong>مفت</strong> ہیں۔ آپ Class 3 سے لے کر Class 12 تک مختلف مضامین کے PDF یہاں سے ڈاؤنلوڈ کر سکتے ہیں۔ نوٹس واضح، مختصر اور امتحانی نکات کے مطابق بنائے گئے ہیں۔</p>
+</div>
+
+<section class="grid" aria-label="Notes list">
+  <!-- Repeat card for Classes 3 to 12 -->
+  <div class="card"><h3>Class 3 — نوٹس</h3><p class="muted">Basic science notes, easy explanations and exercises.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 4 — نوٹس</h3><p class="muted">Chapter-wise short notes and practice questions.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 5 — نوٹس</h3><p class="muted">Class 5 Science — complete chapter summaries and diagrams.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 6 — نوٹس</h3><p class="muted">Easy language notes for quick revision.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 7 — نوٹس</h3><p class="muted">Important definitions, short & long questions.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 8 — نوٹس</h3><p class="muted">Chapter-wise notes with sample questions.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 9 — نوٹس</h3><p class="muted">Detailed Class 9 notes (Science/Biology) — English + Urdu.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 10 — نوٹس</h3><p class="muted">Exam-focused notes and key points for final exams.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 11 — نوٹس</h3><p class="muted">Intermediate-level short notes for quick study.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+  <div class="card"><h3>Class 12 — نوٹس</h3><p class="muted">Final year key notes and important questions.</p><p style="margin-top:8px"><a class="btn" href="#">Download PDF</a></p></div>
+</section>
+
+<footer>
+  <p class="muted">Contact: 03XX-XXXXXXX | Email: haresh.kumar@example.com</p>
+  <p style="margin-top:6px">&copy; 2025 Haresh Kumar — All notes free for students.</p>
+</footer>
+
+  </div>
+</body>
+</html>
